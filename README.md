@@ -2,16 +2,16 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/TariqJerrodWilliams/OsTicket)
-  - [osTicket: Post-Installation Configuration](https://github.com/TariqJerrodWilliams/OsTicketConfiguration)
-  - [osTicket: Ticket Lifecycle Examples]()
+- <b>OsTicket (Help Desk Ticketing System)</b>
+  - [OsTicket: Prerequisites And Installation](https://github.com/TariqJerrodWilliams/OsTicket)
+  - [OsTicket: Post-Installation Configuration](https://github.com/TariqJerrodWilliams/OsTicketConfiguration)
+  - [OsTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TariqJerrodWilliams/Active-Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TariqJerrodWilliams/NSG)
-- Currently Learning Linux and Practicing Computer Assembly
+  - [Configuring On-Premises Active Directory Within Azure VMs](https://github.com/TariqJerrodWilliams/Active-Directory)
+  - [Network Security Groups (NSGs) And Inspecting Network Protocols](https://github.com/TariqJerrodWilliams/NSG)
+- Currently Learning Linux And Practicing Computer Assembly
 
-<h2>Connect with me:</h2>
+<h2>Connect With Me:</h2>
 
 [<img align="left" alt="Tariq J. Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tariq J. Williams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
